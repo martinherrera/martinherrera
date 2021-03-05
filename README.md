@@ -11,7 +11,3 @@ I am a self-taught Full stack developer from Argentina. There is always somethin
 <a href="https://github.com/martinherrera/martinherrera">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinherrera&hide=html" alt="Most used languages" />
 </a>
-​
-<a href="https://github.com/martinherrera/martinherrera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinherrera&show_icons=true&line_height=27&count_private=false" alt="Martin Herrera's GitHub Stats" />
-</a>
